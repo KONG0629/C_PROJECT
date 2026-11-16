@@ -1,0 +1,9 @@
+Receipt Code: 014264
+Date: 2024-06-07 21:21:45
+
+Order List:
+1. Milk Tea - Okinawa [Size 2] x 1
+
+Total Price: PHP 39.00
+Cash Received: PHP 40.00
+Change: PHP 1.00

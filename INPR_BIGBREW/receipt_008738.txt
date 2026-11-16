@@ -1,0 +1,10 @@
+Receipt Code: 008738
+Date: 2024-05-20 20:51:27
+
+Order List:
+1. Milk Tea - Dark Choco [Size 2] x 10
+2. Iced Coffee - Macchiato [Size 2] x 5
+
+Total Price: PHP 585.00
+Cash Received: PHP 585.10
+Change: PHP 0.10

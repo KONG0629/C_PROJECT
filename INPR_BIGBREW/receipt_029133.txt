@@ -1,0 +1,10 @@
+Receipt Code: 029133
+Date: 2024-05-17 22:07:19
+
+Order List:
+1. Milk Tea - WinterMelon [Size 2] x 4
+2. Iced Coffee - Macchiato [Size 2] x 1
+
+Total Price: PHP 195.00
+Cash Received: PHP 200.00
+Change: PHP 5.00

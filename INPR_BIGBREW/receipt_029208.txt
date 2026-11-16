@@ -1,0 +1,10 @@
+Receipt Code: 029208
+Date: 2024-05-17 22:07:42
+
+Order List:
+1. Milk Tea - Dark Choco [Size 1] x 3
+2. Praf - Mocha [Size 2] x 2
+
+Total Price: PHP 205.00
+Cash Received: PHP 210.00
+Change: PHP 5.00
